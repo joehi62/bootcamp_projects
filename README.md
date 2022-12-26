@@ -36,7 +36,21 @@ We learn 10 sprints during 4 month program.
 
 
 badges:
+SQL
 
 
 R Rock Scissor Paper ✊✋✌
+
 https://replit.com/@sunsernwiwi/Batch06ChatbotPizza#main.r
+
+Python Rock Scissor Paper ✊✋✌
+
+
+Dashboard
+datastudio
+
+
+tableau
+
+
+
