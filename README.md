@@ -37,3 +37,6 @@ We learn 10 sprints during 4 month program.
 
 badges:
 
+
+R Rock Scissor Paper ✊✋✌
+https://replit.com/@sunsernwiwi/Batch06ChatbotPizza#main.r
