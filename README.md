@@ -41,17 +41,20 @@ badges:
 SQL
 
 https://replit.com/@sunsernwiwi/SQLhomeworkbatch6-1#main.sql
+------------------------------------------------------------------
 
 
 R Rock Scissor Paper ✊✋✌
 
 https://replit.com/@sunsernwiwi/Batch06ChatbotPizza#main.r
+------------------------------------------------------------------
 
 Python Rock Scissor Paper ✊✋✌
 
-
+------------------------------------------------------------------
 
 Dashboard
+
 datastudio
 
 
