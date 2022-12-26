@@ -39,6 +39,7 @@ badges:
 
 
 SQL
+
 https://replit.com/@sunsernwiwi/SQLhomeworkbatch6-1#main.sql
 
 
