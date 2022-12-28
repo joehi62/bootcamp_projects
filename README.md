@@ -51,6 +51,7 @@ https://replit.com/@sunsernwiwi/Batch06ChatbotPizza#main.r
 
 Python Rock Scissor Paper ✊✋✌
 
+https://datalore.jetbrains.com/notebook/g3sg3nPQHnIp93ZCNVgnUL/eXVcRf2F2JZC9yFPf58m3v/
 
 ------------------------------------------------------------------
 
